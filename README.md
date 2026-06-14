@@ -4,6 +4,7 @@
 📍 Islamabad, Pakistan &nbsp;|&nbsp; 📧 rubaisha.rn@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rubaisha--nadeem-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rubaisha-nadeem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=google-chrome)](https://rubaishanadeem.wixsite.com/portfolio)
 
 ---
 
