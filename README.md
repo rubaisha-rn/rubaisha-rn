@@ -22,7 +22,7 @@ interaction design through to full-stack engineering and AI integration.
 | Project | What it is | Stack |
 |---|---|---|
 | [Serenity ETM](https://serenity-etm.vercel.app) | Emotion-aware adaptive productivity platform — validated through two controlled HCI studies | React · Next.js · FastAPI · MorphCast SDK · Supabase |
-| [RFP Agent System](https://rfp-agent-system.netlify.app) | 4-agent LLM pipeline generating PPRA-compliant procurement docs in under 3 mins — AI Seekho 2026 Regional Finalist | Flutter · Google Gemini 2.5 Flash · Google ADK · FastAPI |
+| [RFP Agent System](https://rfp-agent-system.netlify.app) | 4-agent LLM pipeline generating PPRA-compliant procurement docs in under 3 mins. Ranked 12th of 200+ Teams Region-Wide — AI Seekho 2026, Google for Developers | Flutter · Google Gemini 2.5 Flash · Google ADK · FastAPI |
 | [UNLCKD](https://github.com/rubaisha-rn/UNLCKD-Region-Aware-Music-Player) | Cross-platform music streaming app with GPS-based geofencing | React Native · Expo · Supabase |
 | [Predictive Maintenance](https://github.com/rubaisha-rn/Predictive-Maintenance) | Aircraft engine RUL prediction from NASA C-MAPSS sensor data | Python · Scikit-learn · Pandas |
 | [Genetic Algorithm Robotics](https://github.com/rubaisha-rn/Genetic-Algorithm-Robotics) | Evolutionary AI evolving creature locomotion strategies | Python · NumPy · Matplotlib |
