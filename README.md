@@ -38,6 +38,3 @@ interaction design through to full-stack engineering and AI integration.
 **Data:** PostgreSQL · Supabase · MySQL · MongoDB  
 
 ---
-
-*Available for entry-level Software Engineering and AI Engineering 
-roles from July 2026 — remote globally, on-site in Pakistan.*
