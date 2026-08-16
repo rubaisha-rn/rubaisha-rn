@@ -36,5 +36,3 @@ interaction design through to full-stack engineering and AI integration.
 **Backend:** FastAPI · Node.js · Express.js  
 **AI / ML:** Scikit-learn · MorphCast SDK · Google ADK · Ollama · Gemini  
 **Data:** PostgreSQL · Supabase · MySQL · MongoDB  
-
----
