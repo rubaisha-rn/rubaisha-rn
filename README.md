@@ -10,7 +10,8 @@
 
 ## About Me
 
-Computer Science graduate (First Class Honours, University of London) · Gold Medalist, Years 1 & 2 
+Computer Science graduate (First Class Honours, University of London) · Gold Medalist, Years 1 & 2
+
 I design, build, and validate end-to-end — from UX research and interaction design through to full-stack engineering and AI integration.
 
 ---
